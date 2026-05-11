@@ -300,23 +300,3 @@ Some experiments showed mild overfitting because:
 | customer_churn_nn.csv | Dataset |
 | notebook.ipynb | Jupyter Notebook implementation |
 | README.md | Project explanation |
-
----
-
-# Conclusion
-
-This assignment demonstrated the complete neural network workflow for a supervised learning problem.
-
-The project covered:
-- Data exploration
-- Data preprocessing
-- Neural network training
-- Model evaluation
-- Hyperparameter tuning
-- Performance analysis
-
-The experiments also showed how neural network parameters influence:
-- Accuracy
-- Generalization
-- Overfitting
-- Learning behavior
